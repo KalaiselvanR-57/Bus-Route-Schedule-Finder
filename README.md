@@ -22,24 +22,6 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla) – Data handling and dynamic search
 
-How to Use
-
-Clone this repository:
-
-git clone https://github.com/your-username/bus-route-finder.git
-
-
-Navigate to the project directory:
-
-cd bus-route-finder
-
-
-Open the index.html file in any browser:
-
-start index.html   # Windows
-open index.html    # macOS
-xdg-open index.html # Linux
-
 Project Structure
 bus-route-finder/
 │
@@ -48,6 +30,8 @@ bus-route-finder/
 └── assets/      # (Optional) Images or additional files
 
 Future Enhancements
+
+#UPCOMMING:
 
 Make the UI fully responsive for mobile devices.
 
